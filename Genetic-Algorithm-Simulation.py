@@ -1,5 +1,4 @@
 """
-
   This program demonstrates the Genetic Algorithm (GA) using a population of
   50 randomly generated members. Each member has biological traits that are
   evaluated for "fitness" in a simulated environment.
